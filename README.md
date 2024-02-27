@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Repository.
 <br>
-Author - Swapnil Bankar
+Author - Swapnil Bankar (Apna College)
